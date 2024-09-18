@@ -9,7 +9,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry  # Updated import statement
 
 model = "tinyllama"
-BOT_TOKEN = '6887996428:AAGeuH8G0nSjCnA9uOK6N7bnJ7mwqHwLZ3w'
+BOT_TOKEN = ''
 
 LOG_FILE = "bot_logs.txt"
 
